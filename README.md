@@ -1,7 +1,7 @@
 # Cuentas 
 # usuarios
-- juancitoadmin@gmail.com
-- pepitocliente@gmail.com
+- adminadmin@gmail.com
+- clientecliente@gmail.com
 # contraseñas
-- 78910Pepe!
-- 123456ABCabc@
+- 78910Admin!
+- 123456ABCliente@
